@@ -1,0 +1,82 @@
+<!DOCTYPE html> 
+<html lang = " pt-br " > 
+  <cabeça > 
+  Cavaleiros do Zoadiaco </title > 
+  <meta charset = " utf-8 " >
+
+  <!-Realiza link com nosso arquivo de estilos-> 
+  <link rel = " stylesheet " type = "text/css " href = "css/estilo.css " >
+
+  <!- Realiza link com uma biblioteca normalizada-> 
+  <link rel = " folha de estilo " type = "text/css " href = "css/normalize.css " > 
+
+  <!-Realiza link com estilos de fontes do google -> 
+  <link href = " https://fonts.googleapis.com/css?family=Permanent+Marker|Satisfy&display=swap " rel = "folha de estilo " > 
+  </cabeça > 
+
+  <corpo > 
+  <!- Cabeçalho do Projeto -> 
+  <cabeçalho > 
+  <h1> Cavaleiros do Zodiaco </ h1 > 
+  <img src = " img/cdz.jpg " alt = "cavaleiros da Deus Atena " style = " largura : 250px ; altura : 162px ; " > 
+
+  <p>A lenda conta que desde épocas mitológicas um grupo de habilidosos jovens protegiam Athena, a Deusa da Sabedoria, em suas árduas batalhas contra as forças malignas que tentam dominar a Terra.
+  Estes jovens valorosos eram chamados de Cavaleiros de Athena. Provindos de todas as partes do mundo e dotados de verdadeira força e coragem, eles surgem sempre que a paz na Terra é ameaçada. Nos tempos atuais, um novo grupo desses jovens guerreiros foi reunido.
+   </P > 
+  </header > 
+  <!- Corpo do Projeto -> 
+  <principal > 
+
+  <section> 
+    <h3 id="athena">Saori Kido/Athena</h3>
+    <img src = " img/athena.jpg " alt = "Deusa Atena " style = " largura : 35px ; altura : 26px ; " > 
+    <p>
+      É a reencarnação da deusa Athena do século 20. Antes de despertar como Deusa, <br>era apenas uma garota mimada, que abusava de sua posição de neta de Mitsumasa Kido para cometer<br> desmandos nos órfãos sob a guarda da Fundação <br>Graad, especialmente Seiya. Com o passar do tempo, se torna uma mulher justa e sábia, sempre <br>disposta a se sacrificar pelo bem da humanidade.
+    </p>
+
+    <h3 id="pegasus">Seiya de Pégasus</h3>
+    <img src = " img/pegasus1.jpg " alt = "cavaleiro de Pegasus " style = " largura : 35px ; altura : 26px ; " > 
+    <p>
+    É o Cavaleiro de Bronze de Pégasus e protagonista da história. Ainda pequeno, <br>foi separado de sua irmã Seika quando viviam no orfanato e enviado à Grécia por Mitsumasa Kido para se tornar<br> um Cavaleiro. Lá, recebe o treinamento de Marin, e também faz muitos inimigos, como a poderosa amazona<br> Shina. Depois de ganhar a Armadura de Pégasus, Seiya volta ao Japão e participa da Guerra Galáctica,<br> após ser convencido por Saori Kido. É um garoto corajoso e o mais importante guerreiro de Athena, vencendo <br>todos os adversários que se colocam em seu caminho, por mais invencíveis que pareçam ser.<br>
+    </p>
+ <div>
+    <h3 id="dragao"> Shiryu de Dragão</h3>
+    <img src = " img/dragao.jpg " alt = "cavaleiro de Dragão " style = " largura : 35px ; altura : 26px ; " > 
+    <p>
+    Um dos mais poderosos Cavaleiros de Bronze e grande amigo de Seiya, Shiryu completou<br> seu treinamento na China, guiado pelo sábio Mestre Ancião. Apesar de ser calmo e reflexivo, torna-se <br>extremamente mortal caso ameacem seus amigos. Quando seu cosmo se eleva ao máximo, a enorme tatuagem de um <br>dragão surge nas costas de Shiryu. Sua armadura de Dragão é conhecida por possuir o punho e o escudo inquebráveis.<br>
+    </p>
+<div>
+    <h3 id="Cisne">Hyoga de Cisne</h3>
+    <img src = "img/cisney1.jpg "alt = "cavaleiro de Cisney " style = " largura : 35px ; altura : 26px ; " > 
+    <p>
+    O Cavaleiro de Cisne treinou nas montanhas da Sibéria, em temperaturas abaixo do zero <br>absoluto. Assim como seus golpes congelantes, Hyoga parece ter um temperamento frio, mas, no fundo,<br> nutre muito apreço por seus amigos e principalmente por sua mãe, que faleceu quando ele ainda era muito pequeno<br>
+    </p>
+
+<div>
+    <h3 id="Andrômeda">Shun de Andrômeda</h3>
+    <img src = " img/andromeda1.jpg " alt = "cavaleiro de Andromeda " style = " largura : 35 px ; altura : 26 px ; " > 
+    <p>
+    Apesar de ser um habilidoso Cavaleiro, Shun é contra a violência, preferindo sempre resolver<br> as coisas de forma pacífica. Sua constelação protetora é a de Andrômeda, baseada na personagem da<br> mitologia grega que foi amarrada à uma pedra no meio do mar por fortes correntes; por isso, sua armadura <br>possui duas correntes, uma especializada em defesa, e a outra em ataques. Também é o irmão mais<br> novo de Ikki.
+    </p>
+<div>
+    <h3 id="Fênix">Ikki de Fênix</h3>
+    <img src = " img/fenix.jpg " alt = "cavaleiro de Fenix " style = " largura : 35 px ; altura : 26 px ; " > 
+    <p>
+    Irmão mais velho de Shun, Ikki é considerado o mais forte dos Cavaleiros de Bronze.<br> Protegido pela constelação de Fênix, a ave que renasce das cinzas, a cada vez que se encontra perto<br> da morte, Ikki ressurge ainda mais poderoso. Apesar de se recusar a andar com a turma de Seiya,<br> está sempre à espreita, pronto para entrar em ação e ajudar seu irmão e companheiros.<br>
+    </p>
+<div>
+
+  </seção > 
+  </main > 
+
+  <section>
+  <!- Rodapé do Projeto -> 
+  <rodapé > 
+  <h3> Contato </h3> 
+  <endereço > E-mail: <a href = "mailto: danilo-ex2@hotmail.com"> danilo-ex2@hotmail.com </a > </endereço > <br>
+  <endereço > Fone: <a href = "tel: +5563984329977"> (63) 9 84329977 </a > </endereço > <br>
+  <endereço > Social: <a href = "http://instagram.com/niloex2"> @niloex2 </a > </endereço > <br>
+  </rodapé > 
+  </corpo > 
+  </section>
+  </html > 
